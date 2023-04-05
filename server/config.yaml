@@ -1,5 +1,5 @@
 openai:
-  key: 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 # required: gradio or your_personal_openai_key
+  key: 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 # required: gradio or your_personal_openai_key
 huggingface:
   token: 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 # required: huggingface token @ https://huggingface.co/settings/tokens
 local: # ignore: just for development
